@@ -19,7 +19,7 @@ public class Phonpe implements Upi {
 	@Override
 	public void getrewards() {
 		// TODO Auto-generated method stub
-		System.out.println("got it");
+		System.out.println("got itt");
 
 	}
 
